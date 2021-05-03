@@ -31,15 +31,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  
   <a href="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg">
     <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg" />
   </a> 
- <!--
-  <a href="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=ralmsdeveloper&theme=buefy&count_private=true">
-    <img  alt="Rafael Almeida - GitHub Language Stats" src="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=ralmsdeveloper&theme=buefy&count_private=true" />
-  </a>
-  -->
+
   <a href="#">
     <img  alt="Rafael Almeida - GitHub Language by File Size"  src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/languages.svg" />
   </a>
+  
 </p>
