@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <a href="#">
+  <a href="https://github.com/ralmsdeveloper/github-stats">
     <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg" />
   </a> 
 
-   <a href="#">
+   <a href="https://github.com/ralmsdeveloper/github-stats">
     <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/languages.svg" />
   </a> 
 </p>
