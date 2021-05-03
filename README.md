@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="#">
-    <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github-readme-stats-silk-xi.vercel.app/api/?theme=buefy&include_all_commits=true&count_private=true&username=ralmsdeveloper&show_icons=true" />
+    <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg" />
   </a> 
 
   
