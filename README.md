@@ -32,12 +32,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <a href="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg">
-    <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg" />
+  <a href="#">
+    <img  alt="Rafael Almeida - GitHub Stats" width="400px" src="https://github-readme-stats-silk-xi.vercel.app/api/?theme=buefy&include_all_commits=true&count_private=true&username=ralmsdeveloper&show_icons=true" />
   </a> 
 
-  <a href="#">
-    <img  alt="Rafael Almeida - GitHub Language by File Size"  src="https://github.com/ralmsdeveloper/github-stats/blob/master/generated/languages.svg" />
-  </a>
   
 </p>
